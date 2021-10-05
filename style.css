@@ -25,8 +25,8 @@ img {
     height: 300px;
     width: 300px;
     padding: 1rem;
-    border: 8px solid #bada55;
-    border-radius: 0.rem;
+    border: 10px solid skyblue;
+    border-radius: 0.5rem;
     grid-column: 1 / -1;
 }
 
@@ -34,7 +34,7 @@ textarea {
     outline: none;
     height: 100px;
     padding: 1rem;
-    border: 8px solid #bada55;
+    border: 10px solid skyblue;
     border-radius: 0.5rem;
     grid-column: 1 / -1;
 }
@@ -43,12 +43,12 @@ button {
     font-size: 1rem;
     border: none;
     outline: none;
-    background-color: #bada55;
+    background-color: skyblue;
     padding: 0.5rem 1rem;
     border-radius: 1rem;
     transition: background-color 0.2s;
 }
 
 button:hover {
-    background-color: #a4be4b;
+    background-color: steelblue;
 }
